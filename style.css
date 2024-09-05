@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;}
+/* This is comment in css */
+
+.container{
+    padding: 35px;
+    border: 2px solid black;
+}
+
+label{
+    color: "2px solid red";
+}
