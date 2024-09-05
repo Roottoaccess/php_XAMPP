@@ -49,7 +49,7 @@
               <label for="age" class="form-label">Enter Your Current Age: </label>
               <input type="number" class="form-control" id="age" name="age" aria-describedby="emailHelp">
             </div>
-            <button type="submit" class="btn btn-primary" value="check">Submit</button>
+            <button type="submit" class="btn btn-primary" value="check">Check Eligibility</button>
           </form>
           <br>
           <?php
