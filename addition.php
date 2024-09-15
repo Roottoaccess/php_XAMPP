@@ -45,6 +45,13 @@
     <br><br>
     <div class="container">
         <form action="addition.php" method="POST">
+            <div class="head">
+                <center>
+                <b><i><u>
+                <h3>Addition Calculator :- </h3>
+                </u></i></b>
+                </center>
+            </div>
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Enter the first number : </label>
                 <input type="number" class="form-control" id="num1" name="num1" aria-describedby="emailHelp">
