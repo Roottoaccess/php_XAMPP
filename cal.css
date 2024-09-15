@@ -1,0 +1,10 @@
+.container{
+    border: 5px solid gray;
+    border-radius: 15px;
+    padding: 15px;
+    color: brown;
+    background-color: bisque;
+}
+body{
+    background-color: whitesmoke;
+}
